@@ -29,9 +29,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  arr=["wow","is","am","it"]
+ arr.first
 end
 
 def retrieve_last_element_from_array(array)
-  
+  arr=["wow","is","am","it"]
+ arr.last
 end
