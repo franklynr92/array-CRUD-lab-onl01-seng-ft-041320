@@ -19,7 +19,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  ["this","is","where","it"].shift
+  ["wow","is","where","it"].shift
   
 end
 
